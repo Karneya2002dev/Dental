@@ -98,9 +98,7 @@ export default function Navbar() {
             <Link to="/team" className="py-2 hover:text-primary">
               Team
             </Link>
-            <Link to="/gallery" className="py-2 hover:text-primary">
-              Gallery
-            </Link>
+           
             <Link to="/contact" className="py-2 hover:text-primary">
               Contact
             </Link>
